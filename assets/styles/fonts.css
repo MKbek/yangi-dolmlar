@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/BoldIt.woff2') format('woff2'),
+        url('../fonts/yangidomlar/BoldIt.woff') format('woff'),
+        url('../fonts/yangidomlar/BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/BlackIt.woff2') format('woff2'),
+        url('../fonts/yangidomlar/BlackIt.woff') format('woff'),
+        url('../fonts/yangidomlar/BlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/Black.woff2') format('woff2'),
+        url('../fonts/yangidomlar/Black.woff') format('woff'),
+        url('../fonts/yangidomlar/Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/Bold.woff2') format('woff2'),
+        url('../fonts/yangidomlar/Bold.woff') format('woff'),
+        url('../fonts/yangidomlar/Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/Light.woff2') format('woff2'),
+        url('../fonts/yangidomlar/Light.woff') format('woff'),
+        url('../fonts/yangidomlar/Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/Black_1.woff2') format('woff2'),
+        url('../fonts/yangidomlar/Black_1.woff') format('woff'),
+        url('../fonts/yangidomlar/Black_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/ExtraBold.woff2') format('woff2'),
+        url('../fonts/yangidomlar/ExtraBold.woff') format('woff'),
+        url('../fonts/yangidomlar/ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yangi Domlar';
+    src: url('../fonts/yangidomlar/Regular.woff2') format('woff2'),
+        url('../fonts/yangidomlar/Regular.woff') format('woff'),
+        url('../fonts/yangidomlar/Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

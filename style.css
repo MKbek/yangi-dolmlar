@@ -1,0 +1,30 @@
+/*
+Theme Name: Yangi Domlar
+Author: Sombra - IT Company
+Author URI: https://sombra.uz/
+Description: WordPress Theme for Yangi Domlar development from company Sombra
+Requires at least: 5.9
+Requires PHP: 5.6
+Version: 1.0
+Text Domain: yangidomlar
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, accessibility-ready
+*/
+
+@import "./assets/styles/fonts.css";
+
+* {
+    font-family: 'Yangi Domlar';
+}
+.fw-600 {
+    font-weight: 600;
+}
+
+#submenu-kvartirs {
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
+
+#submenu-kvartirs.active {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
